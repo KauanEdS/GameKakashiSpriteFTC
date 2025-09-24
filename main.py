@@ -265,7 +265,7 @@ crouch_walk_speed = 1.6
 walk_speed = 3
 run_speed = 10
 jump_height = 400
-jump_duration = 50  # frames
+jump_duration = 50
 frame_rates = {
     'default':8,
     'attack':4,
@@ -444,7 +444,7 @@ def main():
                 elif frame_index == 19:
                     current_rate = frame_rates['sharingan']
                 elif frame_index in (20,21):
-                    current_rate = frame_rates['sharingan'] * 70
+                    current_rate = frame_rates['sharingan'] * 50
                 else:
                     current_rate = frame_rates['sharingan']
 
