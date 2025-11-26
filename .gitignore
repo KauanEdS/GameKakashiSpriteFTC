@@ -25,15 +25,6 @@ wheels/
 *.egg
 MANIFEST
 
-# Pygame specific
-*.bmp
-*.tga
-*.png
-*.jpg
-*.jpeg
-# (Nota: Só adicione as extensões de imagem acima se forem arquivos TEMPORÁRIOS gerados pelo jogo. 
-# Como seu jogo USA imagens para rodar, NÃO ignore png/jpg, ou o jogo não vai funcionar para quem baixar.)
-
 # Ambientes Virtuais (Venv)
 venv/
 env/
