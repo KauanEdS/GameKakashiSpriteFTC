@@ -1,0 +1,40 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# C extensions
+*.so
+
+# Distribution / packaging
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+MANIFEST
+
+# Pygame specific
+*.bmp
+*.tga
+*.png
+*.jpg
+*.jpeg
+# (Nota: Só adicione as extensões de imagem acima se forem arquivos TEMPORÁRIOS gerados pelo jogo. 
+# Como seu jogo USA imagens para rodar, NÃO ignore png/jpg, ou o jogo não vai funcionar para quem baixar.)
+
+# Ambientes Virtuais (Venv)
+venv/
+env/
+ENV/

@@ -58,7 +58,7 @@ Siga os passos abaixo para rodar a simulação na sua máquina.
 
 1.  **Clone o repositório:**
     ```bash
-    git clone [https://github.com/lucasgontijo13/GameSpriteFTC.git](https://github.com/lucasgontijo13/GameSpriteFTC.git)
+    git clone [https://github.com/KauanEdS/GameKakashiSpriteFTC.git](https://github.com/KauanEdS/GameKakashiSpriteFTC.git)
     ```
 2.  **Navegue até à pasta do projeto:**
     ```bash
